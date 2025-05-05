@@ -33,5 +33,16 @@ This project is a data analysis and visualization report that tracks global COVI
 2. Make sure you have the required libraries installed:
    ```bash
    pip install pandas matplotlib seaborn jupyter
-   also download the dataset from kaggle site
+   Launch the Jupyter Notebook
+   Open the notebook file (e.g.owid-covid.ipynb) and run through the cells.
+   Make sure the file owid-covid.csv is saved in the correct path as used in the notebook
+   (C:r/Users/hp/Documents/owid-covid.csv or your project folder).
 
+  # Insights and Reflections
+#COVID-19 waves can be observed across countries with notable peaks and declines.
+
+Vaccination rollouts vary significantly by region, often correlating with infection control.
+
+Some countries saw high case counts with lower fatality rates — likely due to testing, healthcare, or demographic factors.
+
+Data irregularities highlight the importance of cleaning and validating real-world data before analysis.
